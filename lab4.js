@@ -18,9 +18,10 @@ function max(a, b){
 
 //find the min of two numbers
 function min(a,b){
-    if (a<b)
-        return a;
-    else {return b;}
+    if (a<b){
+        return a;}
+    else {
+        return b;}
 }
 
 
