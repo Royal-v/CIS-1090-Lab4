@@ -16,7 +16,7 @@ function max(a, b){
 //STEP 2    Define a second function named min that returns
 //          The smaller of the two parameters
 
-//(YOUR WORK HERE)
+//find the min of two numbers
 function min(a,b){
     if (a<b)
         return a;
